@@ -1,0 +1,26 @@
+# Private data and generated outputs
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.sav
+*.dta
+*.rds
+*.RData
+*.Rdata
+*.pdf
+*.png
+*.docx
+*.html
+regression_results/
+alternative_outcome_results/
+before_manuscript_format_update/
+data/
+raw/
+output/
+outputs/
+# Local files
+.Rproj.user/
+.Rhistory
+.Renviron
+.DS_Store
