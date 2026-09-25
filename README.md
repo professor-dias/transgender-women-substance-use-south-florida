@@ -48,3 +48,7 @@ Table 1 reports available-case denominators and missing counts. Its descriptive,
 Upload only this clean release folder before adding private data or running scripts inside it. `.gitignore` protects ordinary Git operations but cannot prevent manual uploads through GitHub's website. Do not upload raw data, participant-level outputs, reconciliation sheets, or local backups.
 
 No license has been chosen; the repository owner can select one if reuse permissions are intended. Installed package versions are recorded in `regression_results/sessionInfo.txt` after each run; dependencies are not locked.
+
+## Contact
+
+For questions about this code or analysis, contact **Professor Dias** through the contact options on the [@professor-dias GitHub profile](https://github.com/professor-dias).
