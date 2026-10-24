@@ -2,7 +2,7 @@
 
 Created 24 October 2026. Run install_packages.R once if needed. In RStudio, set this folder as your working directory and run run_all.R. Input is ../raw.xlsx; change raw_file in run_all.R if your private input is elsewhere. Times New Roman must be installed.
 
-## Final scope
+## Scope
 Five exposures: psychological distress (K10 >=20), adapted PTSD screen, lifetime suicidal ideation, lifetime suicide attempt, and any reported mental health diagnosis (depression, PTSD or anxiety).
 Primary: basedrugsyn, self-reported drug use (no explicit recall period or illicit qualifier).
 Secondary: othdgs6, non-injection drug use in the past six months.
