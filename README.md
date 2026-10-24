@@ -37,3 +37,7 @@ Start with `run_all.R`: it runs the three scripts in order.
 3. `03_verify.R` checks model counts, odds ratios, corrections, and the Table 1 display.
 
 In the preparation script, `NA` means missing. The small table helper functions reuse the same counting rules for every row: percentages exclude missing responses, and missing counts are shown separately.
+
+
+## For more details
+Contact: Noel Dias - nsing044@fiu.edu
